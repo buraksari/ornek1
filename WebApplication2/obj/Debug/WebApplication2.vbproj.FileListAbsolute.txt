@@ -1,0 +1,60 @@
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.dll
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebApplication2.xml
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\WebGrease.dll
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbprojResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Resources.resources
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbproj.GenerateResource.Cache
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.xml
+c:\users\lab\documents\visual studio 2013\Projects\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.xml
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\Antlr3.Runtime.dll
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.dll
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\System.Web.Helpers.dll
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\System.Web.Mvc.dll
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\System.Web.Optimization.dll
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\System.Web.Razor.dll
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\System.Web.WebPages.dll
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\WebGrease.dll
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\System.Web.Helpers.xml
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\System.Web.Mvc.xml
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\System.Web.Optimization.xml
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\System.Web.Razor.xml
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\System.Web.WebPages.xml
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\Newtonsoft.Json.xml
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\bin\Antlr3.Runtime.pdb
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.Resources.resources
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.vbproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.xml
+C:\Users\Lab\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
